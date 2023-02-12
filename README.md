@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/104791753/218263746-d28795ba-9a5f-4723-a886-a1bd3cc09c96.png)
 
-I have developed a Retail Sales Prediction program in Python which can be deployed to predict daily sales for up to six weeks in advance of Rossmann retail stores using Regression model.
+I have bulit a Retail Sales Prediction Model in Python which can be deployed to make sales forecast for retail stores and help them to manage inventories and makes strategies.
 
 
 
@@ -11,7 +11,7 @@ I have developed a Retail Sales Prediction program in Python which can be deploy
 
 This project is about Rossmann company, which operates over 3000 drug stores in 7 European countries and Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. So, the goal of the project is to predict the daily sales for a chain of drugstores (Rossmann stores) based on various factors such as promotions, competition, school and state holidays, seasonality, etc.
 
-The data provided for this problem includes a history of daily sales for each store, along with additional information such as store location, type of store, and relevant promotions and events. The challenge is to use this data to build a model that can accurately predict future sales for each store. This can help Rossmann optimize their supply chain and better manage their inventory.
+The data provided for this problem includes a history of daily sales for each store, along with additional information such as store location, type of store, and relevant promotions and events. The challenge is to use this data to build a model that can accurately forecast sales for each store. This can help Rossmann retail stores to optimize their supply chain, better manage their inventory and make informed decisions about promotions and other marketing strategies.
 
 
 
