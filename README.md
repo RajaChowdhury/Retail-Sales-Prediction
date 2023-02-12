@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/104791753/218263746-d28795ba-9a5f-4723-a886-a1bd3cc09c96.png)
 
-I have bulit a Retail Sales Prediction Model in Python which can be deployed to make sales forecast for retail stores and help them to manage inventories and makes strategies.
+I have bulit a Retail Sales Prediction Model using Python which can be deployed to make sales forecast for retail stores and help them to manage inventories and makes strategies.
 
 
 
