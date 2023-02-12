@@ -15,7 +15,7 @@ The data provided for this problem includes a history of daily sales for each st
 
 
 
-## Data Fields
+## Attribute Information
 
 *  **Id** - an Id that represents a (Store, Date) duple within the test set
 *  **Store** - a unique Id for each store
@@ -37,7 +37,7 @@ The data provided for this problem includes a history of daily sales for each st
 
 
 
-## Approach
+## Steps Involved
 
 * Importing Libraries And Loading The Datasets
 * Overview Of The Datasets 
@@ -88,4 +88,4 @@ The data provided for this problem includes a history of daily sales for each st
 ### Rossmann Stores Data.csv - historical data including Sales
 ### store.csv - supplemental information about the stores
 
-The datasets can be be dowmloaded from: https://drive.google.com/drive/folders/1r6-Jp7EEik4yLHgIn7bZP3xdWQv3l8Bk?usp=share_link
+The datasets can be be downloaded from: https://drive.google.com/drive/folders/1r6-Jp7EEik4yLHgIn7bZP3xdWQv3l8Bk?usp=share_link
